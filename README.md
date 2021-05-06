@@ -1,6 +1,6 @@
 ```js
 const horacioDev = {
-  pronouns: "he" | "hin",
+  pronouns: "He" | "Him",
   code: [Javascript, HTML, CSS, Java],
   tools: [React, Node],
 }
