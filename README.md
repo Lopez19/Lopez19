@@ -5,13 +5,13 @@
 const horacioDev = {
   pronouns: "He" | "Him",
   code: [JAVASCRIPT, HTML, CSS, JAVA, PHP],
-  tools: [Node, Laravel],
+  tools: [Node, Laravel, Angular],
 }
 ```
 
 - 🔭 I’m currently working on [Porfolio](https://www.horaciodev.ml)
 
-- 🌱 I’m currently learning **Html, Css, JavaScript, React, Adobe XD, Laravel, Java**
+- 🌱 I’m currently learning **React, Adobe XD, Angular, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://www.horaciodev.ml/projects.html](https://www.horaciodev.ml/projects.html)
 
