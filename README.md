@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://www.horacioing.com/#/home)
 
-- 🌱 I’m currently learning .NET Core and UX/UI Design
+- 🌱 I’m currently learning java with Springboot and UX/UI Design
 
 - ❓ Ask me about anything related to MERN and MEAN stack and related technologies
 
