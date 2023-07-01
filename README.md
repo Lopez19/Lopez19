@@ -98,4 +98,10 @@
 
 <br/>
 
+## Roadmap Stats
+
+<div align="center"><a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/649da2e5d99c9d6731a030a4?variant=dark" alt="roadmap.sh" /></a></div>
+
+<br/>
+
 ---
