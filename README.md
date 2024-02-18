@@ -1,14 +1,12 @@
 ![Banner de Horacio Lopez](assets/banner.png)
 
-<div style="display:flex; justify-content:space-between; align-items:center;">
+<div style="display:flex; justify-content:end; align-items:center;">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hlMml1OTNtMXZlbTNnNzJkd2ltdnc2bjFwbHBtdWRrNGZjOWFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="100px">
 
-<p align="end"style="max-width:500px; font-weight:600; font-size:1.05rem">
-Hi! I'm a passionate developer, I love to learn new things and share my knowledge with others. 
-</p>
-
 </div>
+
+Hi! I'm a passionate developer, I love to learn new things and share my knowledge with others.
 
 <br />
 
