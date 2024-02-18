@@ -1,6 +1,6 @@
 ![Banner de Horacio Lopez](assets/banner.png)
 
-<div style="display:flex; justify-content:space-between;">
+<div style="display:flex; justify-content:space-between; align-items:center;">
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hlMml1OTNtMXZlbTNnNzJkd2ltdnc2bjFwbHBtdWRrNGZjOWFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="100px">
 
