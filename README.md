@@ -59,7 +59,7 @@
 
 ## Github Stats
 
-![Lopez19's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopez19&show_icons=true&theme=dark)
+![Lopez19's GitHub stats](https://github-readme-stats.vercel.app/api?username=lopez19&show_icons=true&theme=dark&hide=issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopez19&layout=compact&theme=dark)
 
 <!-- ## Trophy
