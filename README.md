@@ -4,8 +4,10 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hlMml1OTNtMXZlbTNnNzJkd2ltdnc2bjFwbHBtdWRrNGZjOWFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/hS42TuYYnANLFR9IRQ/giphy.gif" width="100px">
 
-<h3 align="end" style="max-width:500px"/>Hi! I'm a passionate developer, I love to learn new things and share my knowledge with others. 
+<div align="end"style="max-width:500px">
+<h3/>Hi! I'm a passionate developer, I love to learn new things and share my knowledge with others. 
 </h3>
+</div>
 
 </div>
 
