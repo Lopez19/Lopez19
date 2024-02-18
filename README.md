@@ -74,4 +74,5 @@
 ## Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![DESARROLLO DE UN POMODORO CON HTML, CSS y JavaScript | PROYECTO 1](https://ytcards.demolab.com/?id=khCiceksxn4&title=DESARROLLO+DE+UN+POMODORO+CON+HTML%2C+CSS+y+JavaScript+%7C+PROYECTO+1&lang=en&timestamp=1687028871&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DESARROLLO DE UN POMODORO CON HTML, CSS y JavaScript | PROYECTO 1")](https://www.youtube.com/watch?v=khCiceksxn4)
 <!-- END YOUTUBE-CARDS -->
