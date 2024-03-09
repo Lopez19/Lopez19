@@ -27,6 +27,12 @@
 
 <table><tr><td valign="top" width="33%">
 
+<div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
+    <img src="https://krisrs1128.github.io/LSLab/assets/img/lakes.png" 
+        style="aspect-ratio: 16 / 9;"/>
+    <p >...</p>
+</div>
+
 ### Frontend  
 <div align="center">
 <div style="display: inline-flex; flex-direction: column; background-color: red; width:fit-content;"><a href="https://reactjs.org/" target="_blank" style="display:inline-flex; flex-direction: column;"><img style="margin: 10px" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /></a><p>React</p></div>
