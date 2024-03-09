@@ -25,12 +25,12 @@
 
 ## My Skill Set
 
-<table style="width: 100%">
+<table style="width: 100%;">
 <tr>
 <!-- Frontend -->
 <td valign="top" width="33%" markdown=1>
 <p>Frontend</p>
-<div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
+<p style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
 <div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
@@ -73,7 +73,7 @@
 <p style="color: white; font-weight: 300; margin:0; padding:0;">Astro</p>
 </a>
 </div>
-</div>
+</p>
 </td>
 <!-- Backend -->
 <td valign="top" width="33%">
