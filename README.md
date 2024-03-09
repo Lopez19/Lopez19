@@ -25,111 +25,96 @@
 
 ## My Skill Set
 
-<section markdown="1" style="display: flex;">
-
-<div class="my-block" markdown="1">
-## Is your company, department or team..."
-    
-* Waiting for solutions ? 
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=next" width="65" height="65" alt="next" />
+      <br>Next JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=astro" width="65" height="65" alt="astro" />
+      <br>Astro JS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="figma" />
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="spring-boot" />
+      <br>SpringBoot
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="postgresql" />
+      <br>PosgreSQL
+    </td>
+    <td align="center"  width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongo" width="65" height="65" alt="jQuery" />
+      <br>MongoDB
+    </td>
+  </tr>
+ <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" alt="github" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="kubernetes" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65" height="65" alt="jest" />
+      <br>Jest
+    </td>
+    <td align="center" width="96"> 
+      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="linux" />
+      <br>Linux
+    </td>
+ </tr>
+</table>
 </div>
-
-<div class="my-block" markdown="1">
-## Tip "How to be more effective "
-
-* You could do this and that
-</div>
-
-</section>
-
-<table><tr><td valign="top" width="33%">
-
-
-### Frontend  
-<div align="center">
-<div style="display: inline-flex; flex-direction: column; background-color: red; width:fit-content;"><a href="https://reactjs.org/" target="_blank" style="display:inline-flex; flex-direction: column;"><img style="margin: 10px" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /></a><p>React</p></div>
-<div style="display: inline-flex; flex-direction: column; background-color: red; width:fit-content;"><a href="https://reactjs.org/" target="_blank" style="display:inline-flex; flex-direction: column;"><img style="margin: 10px" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /></a><p>React</p></div>
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
-
-
-
-</td><td valign="top" width="33%">
-
-### Frontend
-<div align="center">
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
-</a>
-</p>
-</div>
-
-</td><td valign="top" width="33%">
-
-### Frontend
-<div align="center">
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
-</a>
-</p>
-</div>
-
-</td></tr></table>  
-<!-- 
-<div style="display: flex; flex-wrap: wrap;  justify-content: center; align-items:center;">
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
-</a>
-</p>
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://www.typescriptlang.org/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">TypeScript</p>
-</a>
-</p>
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://www.tailwindcss.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Tailwind CSS</p>
-</a>
-</p>
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://nextjs.org/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=next" alt="nextjs-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Next JS</p>
-</a>
-</p>
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://angular.io/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=angular" alt="angular-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Angular 15+</p>
-</a>
-</p>
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://www.figma.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=figma" alt="figma-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Figma</p>
-</a>
-</p>
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://astro.build/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=astro" alt="astro-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Astro</p>
-</a>
-</p>
-</div> -->
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
