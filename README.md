@@ -23,7 +23,7 @@
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
-## My Skill Set
+## Skill Set `Frontend|Backend|DevOps`
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
