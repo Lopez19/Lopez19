@@ -25,7 +25,7 @@
 
 ## My Skill Set
 
-<table>
+<table align="center" width="100%">
 <tr>
 
 <!-- Frontend -->
