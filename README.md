@@ -29,24 +29,18 @@
 
 ### Frontend
 <div align="center">
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center; background-color: red;">
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+<a href="https://es.react.dev/" target="_blank" style="text-decoration: none; display: inline-flex; flex-direction: column; justify-content: space-between; align-items: center;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" height="65"/>
+<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
+</a>
+
+<!-- <div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center; background-color: red;">
 <a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
 </a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center; background-color: red;">
-<a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center; background-color: red;">
-<a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
-</a>
-</div>
+</div> -->
 </div>
 
 
@@ -54,7 +48,7 @@
 
 ### Frontend
 <div align="center">
-<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center; background-color:red;">
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
