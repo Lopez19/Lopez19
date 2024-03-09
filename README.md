@@ -194,15 +194,9 @@
 
 ## Quote of the day
 
-<p align="center" style="min-height:200px">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="quotes-github-readme" width="100%" height="100%"/>
+<p align="center">
+<a href="https://gist.github.com/Lopez19"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Lopez19" /></a>
 </p>
-
-<div>
-<p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
-</p>
-</div>
 
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
