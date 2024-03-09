@@ -29,87 +29,87 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" />
+        <a href="https://es.react.dev/" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="65" height="65" /></a>
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" height="65" />
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="65" height="65" /></a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" /></a>
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=next" width="65" height="65" alt="next" />
+        <a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=next" width="65" height="65" alt="next" /></a>
       <br>Next JS
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="angular" />
+         <a href="https://angular.io/" target="_blank"><img src="https://skillicons.dev/icons?i=angular" width="65" height="65" alt="angular" /></a>
       <br>Angular
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="figma" />
+         <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="figma" /></a>
       <br>Figma
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=astro" width="65" height="65" alt="astro" />
+        <a href="https://astro.build/" target="_blank"><img src="https://skillicons.dev/icons?i=astro" width="65" height="65" alt="astro" /></a>
       <br>Astro JS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65" />
+        <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="65" height="65" /></a>
       <br>JavaScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="figma" />
+        <a href="https://laravel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" width="65" height="65" alt="figma" /></a>
       <br>Laravel
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="spring-boot" />
+        <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" width="65" height="65" alt="spring-boot" /></a>
       <br>SpringBoot
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="postgresql" />
+        <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="postgresql" /></a>
       <br>PosgreSQL
     </td>
     <td align="center"  width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql" />
+        <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql" /></a>
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongo" width="65" height="65" alt="jQuery" />
+        <a href="https://www.mongodb.com/es" target="_blank"><img src="https://skillicons.dev/icons?i=mongo" width="65" height="65" alt="mongo" /></a>
       <br>MongoDB
     </td>
   </tr>
  <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" alt="github" width="65" height="65" />
+      <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="github" width="65" height="65" /></a>
       <br>Github
     </td>
-    <td align="center" width="96"> 
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="git" />
+    <td align="center" width="96">
+      <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="git" /></a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65" />
+      <a href="https://aws.amazon.com/es/" target="_blank"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws" width="65" height="65" /></a>
       <br>AWS
     </td>
     <td align="center" width="96"> 
-      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="docker" />
+      <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="docker" /></a>
       <br>Docker
     </td>
     <td align="center" width="96"> 
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="kubernetes" />
+      <a href="https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" width="65" height="65" alt="kubernetes" /></a>
       <br>Kubernetes
     </td>
     <td align="center" width="96"> 
-      <img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65" height="65" alt="jest" />
+      <a href="https://jestjs.io/" target="_blank"><img src="https://techstack-generator.vercel.app/jest-icon.svg" width="65" height="65" alt="jest" /></a>
       <br>Jest
     </td>
     <td align="center" width="96"> 
-      <img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="linux" />
+      <a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="linux" /></a>
       <br>Linux
     </td>
  </tr>
