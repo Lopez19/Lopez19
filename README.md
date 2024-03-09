@@ -25,11 +25,11 @@
 
 ## My Skill Set
 
-<table align="center" width="100%">
+<table>
 <tr>
 
 <!-- Frontend -->
-<td valign="top" width="33%">
+<td valign="top" width="33%" markdown=1>
 
 ### Frontend
 <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
@@ -194,9 +194,9 @@
 
 ## Quote of the day
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p style="display: flex; justify-content: center; align-items: center;">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="quotes-github-readme"/>
-</div>
+</p>
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
