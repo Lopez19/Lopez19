@@ -26,48 +26,48 @@
 ## My Skill Set
 
 <p style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
 </a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+</p>
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://www.typescriptlang.org/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript-icon" width="65" height="65" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">TypeScript</p>
 </a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+</p>
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://www.tailwindcss.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
 <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind-icon" width="55" height="55" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">Tailwind CSS</p>
 </a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+</p>
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://nextjs.org/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
 <img src="https://skillicons.dev/icons?i=next" alt="nextjs-icon" width="55" height="55" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">Next JS</p>
 </a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+</p>
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://angular.io/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
 <img src="https://skillicons.dev/icons?i=angular" alt="angular-icon" width="55" height="55" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">Angular 15+</p>
 </a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+</p>
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://www.figma.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
 <img src="https://skillicons.dev/icons?i=figma" alt="figma-icon" width="55" height="55" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">Figma</p>
 </a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+</p>
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://astro.build/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
 <img src="https://skillicons.dev/icons?i=astro" alt="astro-icon" width="55" height="55" />
 <p style="color: white; font-weight: 300; margin:0; padding:0;">Astro</p>
 </a>
-</div>
+</p>
 </p>
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
