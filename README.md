@@ -17,17 +17,13 @@
 
 </div>
 
----
+<p align="center">
+<a href="https://gist.github.com/Lopez19"><img src="https://profile-counter.glitch.me/{Lopez19}/count.svg" alt="Lopez19" /></a>
+</p>
+
+<a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
 ## My Skill Set
-
-<!-- <style>
-    * {
-      box-sizing: border-box;
-      margin: 0px;
-      padding: 0px;
-    }
-  </style> -->
 
 <table>
 <tr>
@@ -170,12 +166,16 @@
 </tr>
 </table>  
 
+<a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
+
 ## Github Stats
 
 <p align="center">
 <a href="https://github.com/Lopez19?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Lopez19&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 <a href="https://github.com/Lopez19?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lopez19&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </p>
+
+<a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
@@ -185,16 +185,24 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
-<a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Lopez19&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+<p align="center" style="">
+<a href="https://wakatime.com/@Lopez19"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=lopez19&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Lopez19's wakatime stats"/></a>
+<a href="https://github.com/Lopez19?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Lopez19&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Lopez19's trophy stats"/></a>
 </p>
 
+<a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
-<!-- ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=lopez19&theme=onedark) -->
+## Quote of the day
 
----
+<div style="display: flex; justify-content: center; align-items: center;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="quotes-github-readme"/>
+</div>
+
+<a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
+<a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
 ## Videos
 
