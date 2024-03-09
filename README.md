@@ -25,6 +25,45 @@
 
 ## My Skill Set
 
+<table><tr><td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center; background-color: red;">
+<a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
+<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
+</a>
+</div>
+</div>
+
+
+</td><td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+<a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
+<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
+</a>
+</p>
+</div>
+
+</td><td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+<p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
+<a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
+<p style="color: white; font-weight: 300; margin:0; padding:0;">React</p>
+</a>
+</p>
+</div>
+
+</td></tr></table>  
+<!-- 
 <div style="display: flex; flex-wrap: wrap;  justify-content: center; align-items:center;">
 <p style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
@@ -68,7 +107,7 @@
 <p style="color: white; font-weight: 300; margin:0; padding:0;">Astro</p>
 </a>
 </p>
-</div>
+</div> -->
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
