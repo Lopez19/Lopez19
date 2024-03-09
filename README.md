@@ -25,12 +25,19 @@
 
 ## My Skill Set
 
-<table style="width: 100%;">
-<tr>
-<!-- Frontend -->
-<td valign="top" width="33%" markdown=1>
-<p>Frontend</p>
-<p style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
+
+<table>
+<thead>
+	<tr>
+		<th>Frontend</th>
+		<th>Backend</th>
+		<th>DevOps</th>
+	</tr>
+</thead>
+<tbody>
+	<tr>
+		<td>
+<div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
 <div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react-icon" width="65" height="65" />
@@ -73,88 +80,13 @@
 <p style="color: white; font-weight: 300; margin:0; padding:0;">Astro</p>
 </a>
 </div>
-</p>
-</td>
-<!-- Backend -->
-<td valign="top" width="33%">
-<p>Backend</p>
-<div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://laravel.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-<img src="https://skillicons.dev/icons?i=laravel" alt="laravel-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Laravel 9+</p>
-</a>
 </div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://spring.io/projects/spring-boot" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=spring" alt="typescript-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">SpringBoot 3</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://www.postgresql.org/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=postgres" alt="postgres-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">PostgreSQL</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://www.mysql.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">MySQL</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://angular.io/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=mongo" alt="mongo-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">MongoDB</p>
-</a>
-</div>
-</div>
-</td>
-<!-- DevOps -->
-<td valign="top" width="33%">
-<p>DevOps</p>
-<div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://aws.amazon.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">AWS</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://www.docker.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=docker" alt="docker-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Docker</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://kubernetes.io/es/docs/concepts/overview/what-is-kubernetes/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Kubernetes</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://jestjs.io/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="jest-icon" width="65" height="65" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Jest</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://es.wikipedia.org/wiki/GNU/Linux" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=linux" alt="linux-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Linux</p>
-</a>
-</div>
-<div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
-<a href="https://git-scm.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items:center;">
-<img src="https://skillicons.dev/icons?i=git" alt="git-icon" width="55" height="55" />
-<p style="color: white; font-weight: 300; margin:0; padding:0;">Git</p>
-</a>
-</div>
-</div>
-</td>
-</tr>
-</table>  
+    </td>
+		<td>Column 2</td>
+		<td>Column 3</td>
+	</tr>
+</tbody>
+</table>
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
