@@ -29,11 +29,8 @@
 
 ### Frontend
 <div align="center">
-
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" height="50" /></a>
-
 </div>
 
 
