@@ -185,7 +185,7 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center" style="">
+<p align="center">
 <a href="https://wakatime.com/@Lopez19"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=lopez19&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Lopez19's wakatime stats"/></a>
 <a href="https://github.com/Lopez19?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Lopez19&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Lopez19's trophy stats"/></a>
 </p>
@@ -194,8 +194,8 @@
 
 ## Quote of the day
 
-<p style="display: flex; justify-content: center; align-items: center;">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="quotes-github-readme"/>
+<p align="center" style="height:200px">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="quotes-github-readme" width="100%" height="100%"/>
 </p>
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
