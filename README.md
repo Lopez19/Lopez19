@@ -25,18 +25,6 @@
 
 ## My Skill Set
 
-
-<table style="width: 100%; background-color: red;">
-<thead>
-	<tr>
-		<th>Frontend</th>
-		<th>Backend</th>
-		<th>DevOps</th>
-	</tr>
-</thead>
-<tbody>
-	<tr>
-		<td>
 <p style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
 <div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
@@ -81,12 +69,6 @@
 </a>
 </div>
 </p>
-    </td>
-		<td>Column 2</td>
-		<td>Column 3</td>
-	</tr>
-</tbody>
-</table>
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
