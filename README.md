@@ -27,11 +27,9 @@
 
 <table style="width: 100%">
 <tr>
-
 <!-- Frontend -->
 <td valign="top" width="33%" markdown=1>
-
-### Frontend
+<p>Frontend</p>
 <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
 <div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://es.react.dev/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
@@ -76,13 +74,10 @@
 </a>
 </div>
 </div>
-
 </td>
-
 <!-- Backend -->
 <td valign="top" width="33%">
-
-### Backend
+<p>Backend</p>
 <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
 <div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://laravel.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
@@ -115,13 +110,10 @@
 </a>
 </div>
 </div>
-
 </td>
-
 <!-- DevOps -->
 <td valign="top" width="33%">
-
-### DevOps
+<p>DevOps</p>
 <div style="display: flex; flex-wrap: wrap; gap:10px; justify-content: center; align-items:center;">
 <div style="width:calc(33%-10px); height:90px; display: flex; justify-content: center; align-items: center;">
 <a href="https://aws.amazon.com/" target="_blank" style=" height:100%; width:100%; text-decoration: none; display: flex; flex-direction: column; justify-content: space-between; align-items: center;">
@@ -160,9 +152,7 @@
 </a>
 </div>
 </div>
-
 </td>
-
 </tr>
 </table>  
 
