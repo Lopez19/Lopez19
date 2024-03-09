@@ -25,13 +25,26 @@
 
 ## My Skill Set
 
+<section markdown="1" style="display: flex;">
+
+<div class="my-block" markdown="1">
+
+## Is your company, department or team..."
+    
+* Waiting for solutions ? 
+</div>
+
+<div class="my-block" markdown="1">
+
+## Tip "How to be more effective "
+
+* You could do this and that
+</div>
+
+</section>
+
 <table><tr><td valign="top" width="33%">
 
-<div style="display: flex; flex-direction: column; justify-content:center; align-items:center;">
-    <img src="https://krisrs1128.github.io/LSLab/assets/img/lakes.png" 
-        style="aspect-ratio: 16 / 9;"/>
-    <p >...</p>
-</div>
 
 ### Frontend  
 <div align="center">
