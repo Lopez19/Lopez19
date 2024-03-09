@@ -144,8 +144,8 @@
 
 ## Quote of the day
 
-<p align="center">
-<a href="https://gist.github.com/Lopez19"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Lopez19" /></a>
+<p align="center" style="height:250px">
+<a href="https://gist.github.com/Lopez19"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Lopez19" height="100%" /></a>
 </p>
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
