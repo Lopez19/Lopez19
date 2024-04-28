@@ -82,6 +82,10 @@
         <a href="https://www.mongodb.com/es" target="_blank"><img src="https://skillicons.dev/icons?i=mongo" width="65" height="65" alt="mongo" /></a>
       <br>MongoDB
     </td>
+    <td align="center" width="96">
+        <a href="https://docs.python.org/3/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="65" height="65" alt="python" /></a>
+      <br>Python 3
+    </td>
   </tr>
  <tr>
     <td align="center" width="96">
