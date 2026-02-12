@@ -17,9 +17,9 @@
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://gist.github.com/Lopez19"><img src="https://profile-counter.glitch.me/{Lopez19}/count.svg" alt="Lopez19" /></a>
-</p>
+</p> -->
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
@@ -73,6 +73,10 @@
     <td align="center" width="96">
         <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="postgresql" /></a>
       <br>PosgreSQL
+    </td>
+    <td align="center" width="96">
+        <a href="https://learn.microsoft.com/es-es/aspnet/core/?view=aspnetcore-10.0&WT.mc_id=dotnet-35129-website" target="_blank"><img src="https://skillicons.dev/icons?i=net" width="65" height="65" alt="figma" /></a>
+      <br>.NET
     </td>
     <td align="center"  width="96">
         <a href="https://www.mysql.com/" target="_blank"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql" /></a>
@@ -139,10 +143,10 @@
 </p>
 <!-- activity graph heroku-app end -->
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://wakatime.com/@Lopez19"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=lopez19&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Lopez19's wakatime stats"/></a>
 <a href="https://github.com/Lopez19?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Lopez19&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Lopez19's trophy stats"/></a>
-</p>
+</p> -->
 
 <a href="#"><img src="./assets/colored.png"  width="100%" alt="colored"/></a>
 
